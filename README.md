@@ -3,7 +3,7 @@
 
 A Software Engineering graduate with experience as a Product Manager and Business Analyst pivoting  Highly inquisitive and passionate about solving real problems. Experienced in being a servant leader to Lean and Agile teams.
 
-Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day. 
+Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day.
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
@@ -43,7 +43,7 @@ Rethinking the way HSBC communicates with its retail & wealth customers (RBWM �
 - Worked with stakeholders to build vision for future global Customer Correspondence.
 - Designed new experience for customers who are in arrears to self-serve so that they can repay their debt. Defined MVP, created roadmap of delivery and working with cross-functional team.
 
-
+<br><br>
 **FINANCIAL TIMES (Media publisher)** &nbsp;(JUN 2015 – JUN 2016)
 
 *Product Manager - Membership & E-Commerce (Contract)*
@@ -55,7 +55,7 @@ Responsible for delivering exponential improvements to Subscription management a
 - Improving Customer Service workflows and case management - 26hr per week saved (3hr 20min saving per user per week).
 - 20% increase in retention; working with Customer Service heads on improving customer satisfaction (CSAT) scores.
 
-
+<br><br>
 **FEB DIGITAL Ltd. (consulting startup)** &nbsp;(JAN 2015 – APR 2015)
 
 *Product Development Consultant*
@@ -64,7 +64,7 @@ Responsible for delivering exponential improvements to Subscription management a
 - Working with Digital departments to drive forward innovation of their product portfolios across web, mobile web, smartphone and tablet (iOS & Android) apps.
 - Driving lean product development, helping clients to build, measure and learn from minimal viable products.
 
-
+<br><br>
 **NEWS UK Ltd** &nbsp;(APR 2011 – DEC 2014)
 
 Part of the global Media company News Corporation. The Times, The Sunday Times and The Sun publishing brands. Held multiple roles during my time.
