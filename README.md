@@ -1,6 +1,9 @@
 ## Ruan Odendaal
 
+A Software Engineering graduate...
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 ## Skills
 
@@ -21,33 +24,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Projects
+Project title  | Description | Development timeframe | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
 
-#### Makers Academy                               (Feb 2017 to Jun 2017)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js, React.js
-- Rspec, Jasmine, Mocha
-
-#### University of the West of England, Bristol   (2002 to 2006)
-
-BSc Software Engineering
-- President of the Basketball team (2004 - 2006)
-
-#### Any other qualifications
-- Certified Scrum Master (CSM) 		          (Nov 2015 - Scrum Alliance, Inc.)
-- Agile Project Management (APMG)		        (Feb 2014 - APMG-UK)
-- Certified Scrum Product Owner (CPO) 	    (Nov 2012 - Scrum Alliance, Inc.)
-- BCS/ISEB Requirements Engineering	        (Aug 2012)
-- BCS/ISEB Modelling Business Process	      (Jun 2012)
-- Essential Agile for Business Analysts	    (Nov 2011)
-- BCS/ISEB Business Analysis Essentials	    (Sep 2011)
-- Certified NLP Master Practitioner & Coach	(Mar 2011 - Self funded)
-- Certified NLP Practitioner & Coach		    (Oct 2009 - Self funded)
-- Lean Six Sigma Green Belt trained 		    (Dec 2008)
 
 ## Experience
 
@@ -94,9 +74,9 @@ Responsible for the full product lifecycle collaborating across the business in 
 - Direct line management responsibility for a team of 5 perm staff plus 5 contract staff  for discrete projects.
 - Recruited Product Owners and Business Analysts to grow Product function, including supporting the recruitment of Engineering and UX Design staff.
 - Lead cross functional teams to launch:
--- Sun Goals iOS & Android apps (News & Video product)
--- Sun Mobile Android app (News product)
--- Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
+..* Sun Goals iOS & Android apps (News & Video product)
+..* Sun Mobile Android app (News product)
+..* Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
 - Worked with Design & UX to launch a better onboarding process for new subscribers which increased mobile subscriber acquisition by 20%.
 - Lead the development of a new interactive Tablet Advertising solution to enable a £17m Commercial Advertising KPI.
 - Assisted Director with multi million pound CAPEX and OPEX budgets.
@@ -125,11 +105,33 @@ Responsible for continually improving Driving.co.uk, acting as the voice of the 
 - Launched Times+ mobile web product on time and to budget.
 
 
-**PACIFIC INTERNATIONAL RECRUITMENT LTD** (AUG 2008 – APR 2011)
-*Consultant (Continuous Improvement – Lean Six Sigma)*
+## Education
 
-**PORCELANOSA GRUPO** (SEP 2007 – AUG 2008)
-*Group Project Manager - UK*
+#### Makers Academy                               (Feb 2017 to Jun 2017)
 
-**ALCO BELDAN Ltd.** (AUG 2006 – SEP 2007)
-*Contracts Account Manager*
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular.js, React.js
+- Rspec, Jasmine, Mocha
+
+#### Professional qualifications
+- Certified Scrum Master (CSM) 		          (Nov 2015 - Scrum Alliance, Inc.)
+- Agile Project Management (APMG)		        (Feb 2014 - APMG-UK)
+- Certified Scrum Product Owner (CPO) 	    (Nov 2012 - Scrum Alliance, Inc.)
+- BCS/ISEB Requirements Engineering	        (Aug 2012)
+- BCS/ISEB Modelling Business Process	      (Jun 2012)
+- Essential Agile for Business Analysts	    (Nov 2011)
+- BCS/ISEB Business Analysis Essentials	    (Sep 2011)
+- Certified NLP Master Practitioner & Coach	(Mar 2011 - Self funded)
+- Certified NLP Practitioner & Coach		    (Oct 2009 - Self funded)
+- Lean Six Sigma Green Belt trained 		    (Dec 2008)
+
+#### University of the West of England, Bristol   (2002 to 2006)
+
+BSc Software Engineering
+- President of the Basketball team (2004 - 2006)
+
+
+## Interests
