@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Feb 2017 to Jun 2017)
+#### Makers Academy                               (Feb 2017 to Jun 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js, React.js
 - Rspec, Jasmine, Mocha
 
-#### University of the West of England, Bristol (2002 to 2006)
+#### University of the West of England, Bristol   (2002 to 2006)
 
 BSc Software Engineering
 - President of the Basketball team (2004 - 2006)
