@@ -1,9 +1,11 @@
 ## Ruan Odendaal
+#### Eat. Think. Build. Repeat
 
-A Software Engineering graduate...
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A Software Engineering graduate with experience as a Product Manager and Business Analyst pivoting  Highly inquisitive and passionate about solving real problems. Experienced in being a servant leader to Lean and Agile teams.
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day. 
+
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 ## Skills
 
@@ -15,23 +17,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Languages
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- English 	(Fluent)
+- Afrikaans	(Fluent)
+- Dutch 		(Conversational)
+- German 	(Conversational, could use a refresh)
 
 ## Projects
-Project title  | Description | Development timeframe | Technologies | Testing
-------------- | ------------------------------	| ------------- |------------- |---------
+Project title  | Description | Technologies | Testing
+------------- | ------------------------------	| :-------------: | :-------------: |
+[our-wedding-site](https://github.com/ruanodendaal/our-wedding-site) |  A site I created for my wedding using a paid for theme. Which I then customised for my needs. | JavaScript, HTML, CSS, PHP |
+[student-directory](https://github.com/ruanodendaal/student-directory) | The student directory script allows you to manage the list of students enrolled at Villains Academy. Week 3 of the pre-course | Ruby |
 
 
 ## Experience
 
-**HSBC BANK Ltd** (JUN 2016 - DEC 2016)
+**HSBC BANK Ltd** &nbsp;(JUN 2016 - DEC 2016)
 
 *Digital Product Manager (Contract)*
 
@@ -42,7 +44,7 @@ Rethinking the way HSBC communicates with its retail & wealth customers (RBWM �
 - Designed new experience for customers who are in arrears to self-serve so that they can repay their debt. Defined MVP, created roadmap of delivery and working with cross-functional team.
 
 
-**FINANCIAL TIMES (Media publisher)** (JUN 2015 – JUN 2016)
+**FINANCIAL TIMES (Media publisher)** &nbsp;(JUN 2015 – JUN 2016)
 
 *Product Manager - Membership & E-Commerce (Contract)*
 
@@ -54,7 +56,7 @@ Responsible for delivering exponential improvements to Subscription management a
 - 20% increase in retention; working with Customer Service heads on improving customer satisfaction (CSAT) scores.
 
 
-**FEB DIGITAL Ltd. (consulting startup)** (JAN 2015 – APR 2015)
+**FEB DIGITAL Ltd. (consulting startup)** &nbsp;(JAN 2015 – APR 2015)
 
 *Product Development Consultant*
 
@@ -63,51 +65,32 @@ Responsible for delivering exponential improvements to Subscription management a
 - Driving lean product development, helping clients to build, measure and learn from minimal viable products.
 
 
-**NEWS UK Ltd** (APR 2011 – DEC 2014)
+**NEWS UK Ltd** &nbsp;(APR 2011 – DEC 2014)
 
-Part of the global Media company News Corporation. The Times, The Sunday Times and The Sun publishing brands.
+Part of the global Media company News Corporation. The Times, The Sunday Times and The Sun publishing brands. Held multiple roles during my time.
 
-*Digital Delivery Manager/Product Owner – Technology* (DEC 2013 – DEC 2014)
+- *Digital Delivery Manager/Product Owner – Technology* &nbsp;(DEC 2013 – DEC 2014)
+- *Product Owner – Driving.co.uk (car classifieds)*  &nbsp;(OCT 2012 - DEC 2013)
+- *Digital Business Analyst – Technology* &nbsp;(APR 2011 - OCT 2012)
 
-Responsible for the full product lifecycle collaborating across the business in Commercial, Marketing, Editorial, Engineering & Product to define product vision then build, measure and learn.
+Few key highlights:
 
 - Direct line management responsibility for a team of 5 perm staff plus 5 contract staff  for discrete projects.
-- Recruited Product Owners and Business Analysts to grow Product function, including supporting the recruitment of Engineering and UX Design staff.
 - Lead cross functional teams to launch:
-..* Sun Goals iOS & Android apps (News & Video product)
-..* Sun Mobile Android app (News product)
-..* Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
+ - Sun Goals iOS & Android apps (News & Video product)
+ - Sun Mobile Android app (News product)
+ - Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
 - Worked with Design & UX to launch a better onboarding process for new subscribers which increased mobile subscriber acquisition by 20%.
 - Lead the development of a new interactive Tablet Advertising solution to enable a £17m Commercial Advertising KPI.
-- Assisted Director with multi million pound CAPEX and OPEX budgets.
-
-
-*Product Owner – Driving.co.uk (car classifieds)* (OCT 2012 - DEC 2013)
-
-Responsible for continually improving Driving.co.uk, acting as the voice of the customer and translating the business strategy into product roadmap. Collaborating closely with Engineering & UX Design to build, measure and test features.
-
 - Delivered a MVP HTML5 mobile web product, increased mobile conversion x5.
 - Improved Desktop site design with UX Design team which lead to a 1.5x increase in conversion and increased the monthly lead revenue by 62%.
 - Improved average page visits from 1.9 to 3.4 and dwell time from 1:50 to 4:10 which increased advertising revenue.
-- Introduced new revenue streams via affiliates, insurance checker and HPI check.
-- Direct management of a team of two Product Owners.
-- Collaborating with Sales, Marketing, Commercial, Editorial and Technology.
 - Using analytics to translate consumer behaviour from Adobe SiteCatalyst (Omniture) into product developments.
-- Took part in customer focus groups and UX testing.
-
-*Digital Business Analyst – Technology* (APR 2011 - OCT 2012)
-
-- Requirements elicitation and analysis, producing process flows, use cases, requirements specifications and recommendations.
-- Led article commenting development for The Sun website.
-- Presented article commenting proof of concept for The Times & The Sunday Times websites; which was accepted and developed.
-- Produced To-Be business processes for The Times, The Sunday Times & The Sun Editorial for new newsroom content creation system.
-- Helped develop and define the approach to business benefits focused requirements for all News UK’s Technology programmes.
-- Launched Times+ mobile web product on time and to budget.
 
 
 ## Education
 
-#### Makers Academy                               (Feb 2017 to Jun 2017)
+#### Makers Academy &nbsp;(Feb 2017 to Jun 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -117,16 +100,16 @@ Responsible for continually improving Driving.co.uk, acting as the voice of the 
 - Rspec, Jasmine, Mocha
 
 #### Professional qualifications
-- Certified Scrum Master (CSM) 		          (Nov 2015 - Scrum Alliance, Inc.)
-- Agile Project Management (APMG)		        (Feb 2014 - APMG-UK)
-- Certified Scrum Product Owner (CPO) 	    (Nov 2012 - Scrum Alliance, Inc.)
-- BCS/ISEB Requirements Engineering	        (Aug 2012)
-- BCS/ISEB Modelling Business Process	      (Jun 2012)
-- Essential Agile for Business Analysts	    (Nov 2011)
-- BCS/ISEB Business Analysis Essentials	    (Sep 2011)
-- Certified NLP Master Practitioner & Coach	(Mar 2011 - Self funded)
-- Certified NLP Practitioner & Coach		    (Oct 2009 - Self funded)
-- Lean Six Sigma Green Belt trained 		    (Dec 2008)
+- Certified Scrum Master (CSM) &nbsp;(Nov 2015 - Scrum Alliance, Inc.)
+- Agile Project Management (APMG) &nbsp;(Feb 2014 - APMG-UK)
+- Certified Scrum Product Owner (CPO) &nbsp;(Nov 2012 - Scrum Alliance, Inc.)
+- BCS/ISEB Requirements Engineering &nbsp;(Aug 2012)
+- BCS/ISEB Modelling Business Process &nbsp;(Jun 2012)
+- Essential Agile for Business Analysts &nbsp;(Nov 2011)
+- BCS/ISEB Business Analysis Essentials &nbsp;(Sep 2011)
+- Certified NLP Master Practitioner & Coach	&nbsp;(Mar 2011 - Self funded)
+- Certified NLP Practitioner & Coach &nbsp;(Oct 2009 - Self funded)
+- Lean Six Sigma Green Belt trained &nbsp;(Dec 2008)
 
 #### University of the West of England, Bristol   (2002 to 2006)
 
@@ -135,3 +118,6 @@ BSc Software Engineering
 
 
 ## Interests
+- Tech Meetups
+- Golf
+- Travelling
