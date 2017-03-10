@@ -1,23 +1,27 @@
 ## Ruan Odendaal
 #### Eat. Think. Build. Repeat
 
-A Software Engineering graduate with experience as a Product Manager and Business Analyst pivoting to software development. Highly inquisitive and passionate about solving real problems. Experienced in being a servant leader to Lean and Agile teams.
+I am a Software Engineering graduate with 7 years experience in Technology as a Product Manager and Business Analyst. Highly inquisitive and passionate about solving real customer problems.
 
 Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day.
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
-## Skills
+### Why should we hire you?
 
-#### This Skill
+#### Agile thinking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master), I have a wealth of experience working in and implementing Agile.
 
-- Experience
-- Achievements
-- Evidence
+- Experienced in Scrum, Kanban, Lean
+- Increasing team velocity or throughput
+- Being a servant leader or integrated team member
 
-#### Languages
+#### Adaptability & fast learner
+
+I am a hugely adaptable person. Whether it be within my previous role as a Product Manager switching focus from UX, analytics, technology and strategy. Or getting thrown in the deep end with new clients and having to get up to speed and demonstrate value very quickly.
+
+#### Spoken Languages
 
 - English 	(Fluent)
 - Afrikaans	(Fluent)
@@ -91,13 +95,18 @@ Few key highlights:
 ## Education
 
 #### Makers Academy &nbsp;(Feb 2017 to Jun 2017)
-
+<!-- TODO -->
+<!-- REVIEW -->
+------------------DRAFT------------------
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js, React.js
 - Rspec, Jasmine, Mocha
+
+------------------DRAFT------------------
+
 
 #### Professional qualifications
 - Certified Scrum Master (CSM) &nbsp;(Nov 2015 - Scrum Alliance, Inc.)
