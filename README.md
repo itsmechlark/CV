@@ -94,14 +94,13 @@ Few key highlights:
 
 ## Education
 
-#### Makers Academy &nbsp;(Feb 2017 to Jun 2017)
+#### Makers Academy &nbsp;(FEB 2017 to JUN 2017)
 <!-- TODO -->
 <!-- REVIEW -->
 ------------------DRAFT------------------
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- OOP, TDD, SOLID, MVC, BDD
 - Ruby, Rails, Javascript, Node.js, Angular.js, React.js
 - Rspec, Jasmine, Mocha
 
@@ -123,7 +122,6 @@ Few key highlights:
 #### University of the West of England, Bristol   (2002 to 2006)
 
 BSc Software Engineering
-- President of the Basketball team (2004 - 2006)
 
 
 ## Interests
