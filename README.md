@@ -1,5 +1,4 @@
 ## Ruan Odendaal
-#### Eat. Think. Build. Repeat
 
 I am a Software Engineering graduate with 7 years experience in Technology as a Product Manager and Business Analyst. Highly inquisitive and passionate about solving real customer problems.
 
@@ -32,8 +31,7 @@ I am a hugely adaptable person. Whether it be within my previous role as a Produ
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
 [our-wedding-site](https://github.com/ruanodendaal/our-wedding-site) |  A site I created for my wedding using a paid for theme. Which I then customised for my needs. | JavaScript, HTML, CSS, PHP |
-[student-directory](https://github.com/ruanodendaal/student-directory) | The student directory script allows you to manage the list of students enrolled at Villains Academy. Week 3 of the pre-course | Ruby |
-
+[rps-challenge](https://github.com/ruanodendaal/rps-challenge) | A Rock Paper Scissors game. Week 3 weekend challenge | Ruby | Sinatra, Capybara, RSpec
 
 ## Experience
 
@@ -101,8 +99,9 @@ Few key highlights:
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, BDD
-- Ruby, Rails, Javascript, Node.js, Angular.js, React.js
-- Rspec, Jasmine, Mocha
+- Ruby, Javascript
+- Rails, Sinatra,
+- Rspec, Jasmine, Capybara
 
 ------------------DRAFT------------------
 
