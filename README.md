@@ -30,10 +30,13 @@ I am a hugely adaptable person. Whether it be within my previous role as a Produ
 ## Projects
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
+[news-summary](https://github.com/ruanodendaal/news-summary) | A simple frontend single page app, consuming the Guardian news API. | JavaScript, HTML | Our own testing framework
+[notes_app](https://github.com/emmpak/notes_app) | A frontend single page app using pure JavaScript no frameworks.  | JavaScript, HTML | Our own testing framework
+[Makersbnb](https://github.com/jackbittiner/Makersbnb) | A team project to create a clone of Airbnb (week 6). | Ruby, HTML, CSS, DataMapper, Sinatra | RSpec, Capybara
+[rps-challenge](https://github.com/ruanodendaal/rps-challenge) | A Rock Paper Scissors game. Week 3 weekend challenge. | Ruby, Sinatra | RSpec, Capybara
 [our-wedding-site](https://github.com/ruanodendaal/our-wedding-site) |  A site I created for my wedding using a paid for theme. Which I then customised for my needs. | JavaScript, HTML, CSS, PHP |
-[rps-challenge](https://github.com/ruanodendaal/rps-challenge) | A Rock Paper Scissors game. Week 3 weekend challenge | Ruby | Sinatra, Capybara, RSpec
 
-## Experience
+## Past Experience
 
 **HSBC BANK Ltd** &nbsp;(JUN 2016 - DEC 2016)
 
@@ -93,15 +96,6 @@ Few key highlights:
 ## Education
 
 #### Makers Academy &nbsp;(FEB 2017 to JUN 2017)
-<!-- TODO -->
-<!-- REVIEW -->
-------------------DRAFT------------------
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, BDD
-- Ruby, Javascript
-- Rails, Sinatra,
-- Rspec, Jasmine, Capybara
 
 ------------------DRAFT------------------
 
@@ -114,9 +108,6 @@ Few key highlights:
 - BCS/ISEB Modelling Business Process &nbsp;(Jun 2012)
 - Essential Agile for Business Analysts &nbsp;(Nov 2011)
 - BCS/ISEB Business Analysis Essentials &nbsp;(Sep 2011)
-- Certified NLP Master Practitioner & Coach	&nbsp;(Mar 2011 - Self funded)
-- Certified NLP Practitioner & Coach &nbsp;(Oct 2009 - Self funded)
-- Lean Six Sigma Green Belt trained &nbsp;(Dec 2008)
 
 #### University of the West of England, Bristol   (2002 to 2006)
 
