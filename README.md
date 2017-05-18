@@ -1,16 +1,20 @@
 ## Ruan Odendaal
 
-I am a Software Engineering graduate with 7 years experience in Technology as a Product Manager and Business Analyst. Highly inquisitive and passionate about solving real customer problems.
+### About me
+After spending the majority of my career thinking about the 'what' and the 'why' when building consumer products, I felt like something was missing. I've always been drawn to the 'how', so I enrolled in Makers Academy and haven't looked back since.
 
-Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day.
+Now I'm putting my curiosity and inquisitive nature to good use in the world of software engineering.
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+Looking for Full Stack development roles in an organisation where I can continue to learn and be challenged every day. Really excited and passionate about solving consumer problems.
+
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/ruanodendaal)
+***
 
 ### Why should we hire you?
 
 #### Agile thinking
 
-As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master), I have a wealth of experience working in and implementing Agile.
+As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master), I have a wealth of experience working in Agile.
 
 - Experienced in Scrum, Kanban, Lean
 - Increasing team velocity or throughput
@@ -26,6 +30,7 @@ I am a hugely adaptable person. Whether it be within my previous role as a Produ
 - Afrikaans	(Fluent)
 - Dutch 		(Conversational)
 - German 	(Conversational, could use a refresh)
+***
 
 ## Projects
 Project title  | Description | Technologies | Testing
@@ -35,6 +40,7 @@ Project title  | Description | Technologies | Testing
 [Makersbnb](https://github.com/jackbittiner/Makersbnb) | A team project to create a clone of Airbnb (week 6). | Ruby, HTML, CSS, DataMapper, Sinatra | RSpec, Capybara
 [rps-challenge](https://github.com/ruanodendaal/rps-challenge) | A Rock Paper Scissors game. Week 3 weekend challenge. | Ruby, Sinatra | RSpec, Capybara
 [our-wedding-site](https://github.com/ruanodendaal/our-wedding-site) |  A site I created for my wedding using a paid for theme. Which I then customised for my needs. | JavaScript, HTML, CSS, PHP |
+***
 
 ## Past Experience
 
@@ -45,7 +51,6 @@ Project title  | Description | Technologies | Testing
 Rethinking the way HSBC communicates with its retail & wealth customers (RBWM – Retail Banking & Wealth Management). Responsible for building new technical capabilities and enabling cost savings.
 
 - Drove redesign of paperless statement adoption messaging which increased adoption by 400% ~$140k of additional cost saves.
-- Worked with stakeholders to build vision for future global Customer Correspondence.
 - Designed new experience for customers who are in arrears to self-serve so that they can repay their debt. Defined MVP, created roadmap of delivery and working with cross-functional team.
 
 <br>
@@ -55,7 +60,6 @@ Rethinking the way HSBC communicates with its retail & wealth customers (RBWM �
 
 Responsible for delivering exponential improvements to Subscription management and CRM platforms (Salesforce & Zuora).
 
-- 82% reduction in system errors for subscription transitions, renewals and cancellations (in 4 months).
 - Lead initiative that removed an 8hr restriction on subscription transitions & cancellations, enabling Customer Services to utilise an additional 8hrs a day.
 - Improving Customer Service workflows and case management - 26hr per week saved (3hr 20min saving per user per week).
 - 20% increase in retention; working with Customer Service heads on improving customer satisfaction (CSAT) scores.
@@ -66,7 +70,6 @@ Responsible for delivering exponential improvements to Subscription management a
 *Product Development Consultant*
 
 - Working with CXO & Director level clients to help define their digital strategy.
-- Working with Digital departments to drive forward innovation of their product portfolios across web, mobile web, smartphone and tablet (iOS & Android) apps.
 - Driving lean product development, helping clients to build, measure and learn from minimal viable products.
 
 <br>
@@ -80,34 +83,28 @@ Part of the global Media company News Corporation. The Times, The Sunday Times a
 
 Few key highlights:
 
-- Direct line management responsibility for a team of 5 perm staff plus 5 contract staff  for discrete projects.
 - Lead cross functional teams to launch:
  - Sun Goals iOS & Android apps (News & Video product)
  - Sun Mobile Android app (News product)
  - Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
-- Worked with Design & UX to launch a better onboarding process for new subscribers which increased mobile subscriber acquisition by 20%.
 - Lead the development of a new interactive Tablet Advertising solution to enable a £17m Commercial Advertising KPI.
 - Delivered a MVP HTML5 mobile web product, increased mobile conversion x5.
 - Improved Desktop site design with UX Design team which lead to a 1.5x increase in conversion and increased the monthly lead revenue by 62%.
 - Improved average page visits from 1.9 to 3.4 and dwell time from 1:50 to 4:10 which increased advertising revenue.
-- Using analytics to translate consumer behaviour from Adobe SiteCatalyst (Omniture) into product developments.
+***
 
 
 ## Education
 
 #### Makers Academy &nbsp;(FEB 2017 to JUN 2017)
 
-------------------DRAFT------------------
+Europe's leading Web Developer bootcamp
+- Focus on Test Driven Development, with an emphasis on pair programming
+- Object Oriented software design
+- Full stack web development
+- Ruby, Rails, JavaScript, jQuery, Node.js
+- RSpec, Jasmine
 
-
-#### Professional qualifications
-- Certified Scrum Master (CSM) &nbsp;(Nov 2015 - Scrum Alliance, Inc.)
-- Agile Project Management (APMG) &nbsp;(Feb 2014 - APMG-UK)
-- Certified Scrum Product Owner (CPO) &nbsp;(Nov 2012 - Scrum Alliance, Inc.)
-- BCS/ISEB Requirements Engineering &nbsp;(Aug 2012)
-- BCS/ISEB Modelling Business Process &nbsp;(Jun 2012)
-- Essential Agile for Business Analysts &nbsp;(Nov 2011)
-- BCS/ISEB Business Analysis Essentials &nbsp;(Sep 2011)
 
 #### University of the West of England, Bristol   (2002 to 2006)
 
