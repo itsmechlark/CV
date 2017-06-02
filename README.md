@@ -1,7 +1,7 @@
-## Ruan Odendaal
+# Ruan Odendaal
 
-### About me
-After spending the majority of my career thinking about the 'what' and the 'why' when building consumer products, I felt like something was missing. I've always been drawn to the 'how', so I enrolled in Makers Academy and haven't looked back since.
+## About me
+After spending the majority of my career as a Product Manager thinking about the 'what' and the 'why' when building consumer products, I felt like something was missing. I've always been drawn to the 'how', so I enrolled in Makers Academy and haven't looked back since.
 
 Now I'm putting my curiosity and inquisitive nature to good use in the world of Software Engineering.
 
@@ -10,9 +10,9 @@ Looking for Full Stack Development roles in an organisation where I can continue
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/ruanodendaal)
 ***
 
-### Why should we hire you?
+## Why should we hire you?
 
-#### Agile thinking
+### Agile thinking
 
 As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master), I have a wealth of experience working in Agile.
 
@@ -20,16 +20,16 @@ As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master
 - Increasing team velocity or throughput
 - Being a servant leader or integrated team member
 
-#### Adaptability & fast learner
+### Adaptability & fast learner
 
 I am a hugely adaptable person. Whether it be within my previous role as a Product Manager switching focus from UX, analytics, technology and strategy. Or getting thrown in the deep end with new clients and having to get up to speed and demonstrate value very quickly.
 
-#### Spoken Languages
+### Spoken Languages
 
-- English 	(Fluent)
-- Afrikaans	(Fluent)
-- Dutch 		(Conversational)
-- German 	(Conversational, could use a refresh)
+- English   (Fluent)
+- Afrikaans (Fluent)
+- Dutch     (Conversational)
+- German    (Conversational, could use a refresh)
 ***
 
 ## Projects
@@ -44,7 +44,7 @@ Project title  | Description | Technologies | Testing
 
 ## Education
 
-#### Makers Academy &nbsp;(FEB 2017 - JUN 2017)
+### Makers Academy &nbsp;(FEB 2017 - JUN 2017)
 
 *Europe's leading Web Developer bootcamp*
 - Focus on Test Driven Development, with an emphasis on pair programming
@@ -54,14 +54,14 @@ Project title  | Description | Technologies | Testing
 - RSpec, Jasmine
 
 
-#### University of the West of England, Bristol &nbsp; (2002 - 2006)
+### University of the West of England, Bristol &nbsp; (2002 - 2006)
 
 *BSc Software Engineering*
 ***
 
 ## Past Experience
 
-##### HSBC BANK Ltd &nbsp;(JUN 2016 - DEC 2016)
+### HSBC BANK Ltd &nbsp;(JUN 2016 - DEC 2016)
 
 *Digital Product Manager (Contract)*
 
@@ -70,8 +70,8 @@ Rethinking the way HSBC communicates with its retail & wealth customers (RBWM �
 - Drove redesign of paperless statement adoption messaging which increased adoption by 400% ~$140k of additional cost saves.
 - Designed new experience for customers who are in arrears to self-serve so that they can repay their debt. Defined MVP, created roadmap of delivery and working with cross-functional team.
 
-<br>
-##### FINANCIAL TIMES (Media publisher) &nbsp;(JUN 2015 – JUN 2016)
+
+### FINANCIAL TIMES (Media publisher) &nbsp;(JUN 2015 – JUN 2016)
 
 *Product Manager - Membership & E-Commerce (Contract)*
 
@@ -81,16 +81,14 @@ Responsible for delivering exponential improvements to Subscription management a
 - Improving Customer Service workflows and case management - 26hr per week saved (3hr 20min saving per user per week).
 - 20% increase in retention; working with Customer Service heads on improving customer satisfaction (CSAT) scores.
 
-<br>
-##### FEB DIGITAL Ltd. (consulting startup) &nbsp;(JAN 2015 – APR 2015)
+### FEB DIGITAL Ltd. (consulting startup) &nbsp;(JAN 2015 – APR 2015)
 
 *Product Development Consultant*
 
 - Working with CXO & Director level clients to help define their digital strategy.
 - Driving lean product development, helping clients to build, measure and learn from minimal viable products.
 
-<br>
-##### NEWS UK Ltd &nbsp;(APR 2011 – DEC 2014)
+### NEWS UK Ltd &nbsp;(APR 2011 – DEC 2014)
 
 Part of the global Media company News Corporation. The Times, The Sunday Times and The Sun publishing brands. Held multiple roles during my time.
 
