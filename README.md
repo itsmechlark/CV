@@ -35,6 +35,7 @@ I am a hugely adaptable person. Whether it be within my previous role as a Produ
 ## Projects
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
+[spaceship](https://github.com/nazwhale/spaceship) | Makers final project: Using Amazon's Alexa to manipulate Virtual Reality scenes. | JavaScript, Node.js, Amazon Alexa Skills | Jasmine
 [train-spotter](https://github.com/whatsrupp/train-spotter) | Find out which train you're on and tell your friends. A team project going from idea to working prototype. | JavaScript, Node.js, HTML & CSS | Originally Jasmine, now Mocha
 [notes_app](https://github.com/emmpak/notes_app) | A frontend single page app using pure JavaScript no frameworks.  | JavaScript, HTML & CSS | Built and used our own testing framework
 [Makersbnb](https://github.com/jackbittiner/Makersbnb) | A team project to create a clone of Airbnb (week 6). | Ruby, HTML, CSS, DataMapper, Sinatra | RSpec, Capybara
