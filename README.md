@@ -29,6 +29,7 @@ Project title  | Description | Technologies | Testing
 ### First Circle (JUN 2019 - PRESENT)
 
 *Product Engineer*
+
 Leading a Product & Quality Assurance Engineers in rethinking the products with new technical capabilities, efficiency & enabling cost savings.   
 
 - Deployed and designed the integration architecture of the company’s new Customer Relationship Management (CRM) with internal systems using Segment and the Ruby on Rails framework
