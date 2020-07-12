@@ -1,116 +1,60 @@
-# Ruan Odendaal
+# John Chlark Sumatra
 
 ## About me
-After spending the majority of my career as a Product Manager thinking about the 'what' and the 'why' when building consumer products, I felt like something was missing. I've always been drawn to the 'how', so I enrolled in Makers Academy and haven't looked back since.
+Self-directed, experienced and motivated Software Engineer, working effectively in dynamic environment.
 
-Now I'm putting my curiosity and inquisitive nature to good use in the world of Software Engineering.
-
-Looking for Full Stack Development roles in an organisation where I can continue to learn and be challenged every day. Really excited and passionate about solving consumer problems.
-
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/ruanodendaal)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/itsmechlark/)
 ***
-
-## Why should we hire you?
-
-### Agile thinking
-
-As a certified CPO (Certified Scrum Product Owner) & CSM (Certified Scrum Master), I have a wealth of experience working in Agile.
-
-- Experienced in Scrum, Kanban, Lean
-- Increasing team velocity or throughput
-- Being a servant leader or integrated team member
-
-### Adaptability & fast learner
-
-I am a hugely adaptable person. Whether it be within my previous role as a Product Manager switching focus from UX, analytics, technology and strategy. Or getting thrown in the deep end with new clients and having to get up to speed and demonstrate value very quickly.
 
 ### Spoken Languages
 
-- English   (Fluent)
-- Afrikaans (Fluent)
-- Dutch     (Conversational)
-- German    (Conversational, could use a refresh)
+- English (Fluent)
+- Tagalog (Fluent)
 ***
 
 ## Projects
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
-[spaceship](https://github.com/nazwhale/spaceship) | Makers final project: Using Amazon's Alexa to manipulate Virtual Reality scenes. | JavaScript, Node.js, Amazon Alexa Skills | Jasmine
-[train-spotter](https://github.com/whatsrupp/train-spotter) | Find out which train you're on and tell your friends. A team project going from idea to working prototype. | JavaScript, Node.js, HTML & CSS | Originally Jasmine, now Mocha
-[notes_app](https://github.com/emmpak/notes_app) | A frontend single page app using pure JavaScript no frameworks.  | JavaScript, HTML & CSS | Built and used our own testing framework
-[Makersbnb](https://github.com/jackbittiner/Makersbnb) | A team project to create a clone of Airbnb (week 6). | Ruby, HTML, CSS, DataMapper, Sinatra | RSpec, Capybara
-[rps-challenge](https://github.com/ruanodendaal/rps-challenge) | A Rock Paper Scissors game. Week 3 weekend challenge. | Ruby, Sinatra | RSpec, Capybara
-[our-wedding-site](https://github.com/ruanodendaal/our-wedding-site) |  A site I created for my wedding using a paid for theme. Which I then customised for my needs. | JavaScript, HTML, CSS, PHP |
 ***
 
 ## Education
 
-### Makers Academy &nbsp;(FEB 2017 - JUN 2017)
+### La Salle University - Ozamiz City (2008 - 2013)
 
-*Europe's leading Web Developer bootcamp*
-- Focus on Test Driven Development, with an emphasis on pair programming
-- Object Oriented software design
-- Full stack web development
-- Ruby, Rails, JavaScript, jQuery, Node.js
-- RSpec, Jasmine
-
-
-### University of the West of England, Bristol &nbsp; (2002 - 2006)
-
-*BSc Software Engineering*
+*Bachelor's Degree, Computer Engineering*
 ***
 
-## Past Experience
+## Experience
 
-### HSBC BANK Ltd &nbsp;(JUN 2016 - DEC 2016)
+### First Circle (JUN 2019 - PRESENT)
 
-*Digital Product Manager (Contract)*
+*Product Engineer*
+Leading a Product & Quality Assurance Engineers in rethinking the products with new technical capabilities, efficiency & enabling cost savings.   
 
-Rethinking the way HSBC communicates with its retail & wealth customers (RBWM – Retail Banking & Wealth Management). Responsible for building new technical capabilities and enabling cost savings.
+- Deployed and designed the integration architecture of the company’s new Customer Relationship Management (CRM) with internal systems using Segment and the Ruby on Rails framework
+- Developed the integration of a third-party telephony system with internal systems through Ruby on Rails framework which enabled internal teams to have visibility (previously non-existent) on call engagements with customers
+- Deployed an in-house customer referrals system which increased the volume of referrals and improved operational efficiency of internal stakeholders through the Ruby on Rails and ReactJS framework
+- Obtained analytics data from the company’s third-party SMS marketing application through Ruby on Rails framework which provided visibility on SMS marketing efforts 
+- Led a team of three (3) Product Engineers and two (2) Quality Assurance Engineers in deploying aforementioned projects
 
-- Drove redesign of paperless statement adoption messaging which increased adoption by 400% ~$140k of additional cost saves.
-- Designed new experience for customers who are in arrears to self-serve so that they can repay their debt. Defined MVP, created roadmap of delivery and working with cross-functional team.
 
+### CD Technologies Asia, Inc. (SEPT 2013 – JUNE 2019)
 
-### FINANCIAL TIMES (Media publisher) &nbsp;(JUN 2015 – JUN 2016)
+*Senior Programmer (May 2015 - June 2019)*
 
-*Product Manager - Membership & E-Commerce (Contract)*
+Responsible for delivering exponential improvements to CDAsiaOnline and DevOps.
 
-Responsible for delivering exponential improvements to Subscription management and CRM platforms (Salesforce & Zuora).
+- Led the development of the new CDAsiaOnline (cdasiaonline.com) which enabled the website to require fewer resources, be scalable, and portable on any cloud service using AngularJS, Ruby on Rails, and deploying as a containerized application using Google Cloud, Kubernetes, & AWS
+- Established the Development Operations process which led to faster builds, automation of testing, deployment, and having continuous customer feedback (automatically generated error report and faster identification of fraudulent user activity and system threats)
+- Coordinated with the management team and other business units to identify problems which led to the implementation of the new CDAsiaOnline (cdasiaonline.com)
+- Conducted data security and awareness talks to internal teams
 
-- Lead initiative that removed an 8hr restriction on subscription transitions & cancellations, enabling Customer Services to utilise an additional 8hrs a day.
-- Improving Customer Service workflows and case management - 26hr per week saved (3hr 20min saving per user per week).
-- 20% increase in retention; working with Customer Service heads on improving customer satisfaction (CSAT) scores.
+*Programmer (Sept 2013 - Apr 2015)*
 
-### FEB DIGITAL Ltd. (consulting startup) &nbsp;(JAN 2015 – APR 2015)
-
-*Product Development Consultant*
-
-- Working with CXO & Director level clients to help define their digital strategy.
-- Driving lean product development, helping clients to build, measure and learn from minimal viable products.
-
-### NEWS UK Ltd &nbsp;(APR 2011 – DEC 2014)
-
-Part of the global Media company News Corporation. The Times, The Sunday Times and The Sun publishing brands. Held multiple roles during my time.
-
-- *Digital Delivery Manager/Product Owner – Technology* &nbsp;(DEC 2013 – DEC 2014)
-- *Product Owner – Driving.co.uk (car classifieds)*  &nbsp;(OCT 2012 - DEC 2013)
-- *Digital Business Analyst – Technology* &nbsp;(APR 2011 - OCT 2012)
-
-Few key highlights:
-
-- Lead cross functional teams to launch:
-  * Sun Goals iOS & Android apps (News & Video product)
-  * Sun Mobile Android app (News product)
-  * Sun Favourite (favourite.thesun.co.uk Sport tipping website)  
-- Lead the development of a new interactive Tablet Advertising solution to enable a £17m Commercial Advertising KPI.
-- Delivered a MVP HTML5 mobile web product, increased mobile conversion x5 (driving.co.uk).
-- Improved Desktop site design with UX Design team which lead to a 1.5x increase in conversion and increased the monthly lead revenue by 62% (driving.co.uk).
-- Improved average page visits from 1.9 to 3.4 and dwell time from 1:50 to 4:10 which increased advertising revenue (driving.co.uk).
-***
+Developed an Android version of the CDAsiaOnline (cdasiaonline.com) application.
 
 
 ## Interests
-- Tech Meetups
-- Golf
+- Tech Discovery / Hackathon 
+- Non-profit Outreach
 - Travelling
