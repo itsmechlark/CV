@@ -38,6 +38,12 @@ Leading a Product & Quality Assurance Engineers in rethinking the products with 
 - Obtained analytics data from the company’s third-party SMS marketing application through Ruby on Rails framework which provided visibility on SMS marketing efforts 
 - Led a team of three (3) Product Engineers and two (2) Quality Assurance Engineers in deploying aforementioned projects
 
+Ensures the business continues to deliver products with scalability & reliability as Infrastructure & DevOps Engineer.
+
+- Leads the migration of engineering infrastructure to Azure that significantly saves cost and develop better tools.
+- Implements Infrastructure as Code (IaC)
+- Establish guidelines on how the business should manage the infrastructure to deliver securely with continuity and scalability.
+
 
 ### CD Technologies Asia, Inc. (SEPT 2013 – JUNE 2019)
 
